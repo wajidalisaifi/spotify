@@ -1,2 +1,2 @@
 # Netflix 
-Netflix clone  for listen music
+Netflix clone for practice
